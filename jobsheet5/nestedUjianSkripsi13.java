@@ -14,7 +14,7 @@ public class nestedUjianSkripsi13 {
         System.out.print("Masukkan jumlah log bimbingan Pembimbing 1:");
         int bimbinganP1 = sc.nextInt();
 
-        System.out.println("Masukkan jumlah log bimbingan Pembimbing 2: ");
+        System.out.print("Masukkan jumlah log bimbingan Pembimbing 2: ");
         int bimbinganP2 = sc.nextInt();
 
         if (bebasKompen.equalsIgnoreCase("Ya")) {
