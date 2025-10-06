@@ -1,5 +1,3 @@
-package jobsheet5;
-
 import java.util.Scanner;
 
 public class ifCetakKRS13 {
@@ -20,5 +18,6 @@ public class ifCetakKRS13 {
         }
 
         pesan = (uktLunas) ? "Pembayaran UKT terverifikasi\nSilahkan cetak KRS dan minta tanda tangan DPA" : "Registrasi ditolak. Silahkan lunasi UKT terlebih dahulu";
+        System.out.println(pesan);
     }
 }
